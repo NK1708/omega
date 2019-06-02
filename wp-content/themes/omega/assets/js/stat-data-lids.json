@@ -1,0 +1,176 @@
+[
+  {
+    "name": "Очки и оправы",
+    "fields": [
+      {
+        "title": "Трафик (Без бренда)",
+        "oldValue": 985,
+        "newValue": 7352,
+        "suffix": ""
+      },
+      {
+        "title": "Заявки",
+        "oldValue": 30,
+        "newValue": 382,
+        "suffix": ""
+      },
+      {
+        "title": "Валовая прибыль",
+        "oldValue": 92850,
+        "newValue": 1147320,
+        "suffix": "р."
+      },
+      {
+        "title": "Затраты на SEO",
+        "oldValue": 73245,
+        "newValue": 221448,
+        "suffix": "р."
+      }
+    ]
+  },
+  {
+    "name": "Велосипеды",
+    "fields": [
+      {
+        "title": "Трафик (Без бренда)",
+        "oldValue": 4566,
+        "newValue": 28619,
+        "suffix": ""
+      },
+      {
+        "title": "Заявки",
+        "oldValue": 75,
+        "newValue": 570,
+        "suffix": ""
+      },
+      {
+        "title": "Валовая прибыль",
+        "oldValue": 361129,
+        "newValue": 2235028,
+        "suffix": "р."
+      },
+      {
+        "title": "Затраты на SEO",
+        "oldValue": 89828,
+        "newValue": 230430,
+        "suffix": "р."
+      }
+    ]
+  },
+  {
+    "name": "Площадка по продаже авто",
+    "fields": [
+      {
+        "title": "Трафик (Без бренда)",
+        "oldValue": 5487,
+        "newValue": 12584,
+        "suffix": ""
+      },
+      {
+        "title": "Заявки",
+        "oldValue": 30,
+        "newValue": 108,
+        "suffix": ""
+      },
+      {
+        "title": "Валовая прибыль",
+        "oldValue": 168035,
+        "newValue": 1900093,
+        "suffix": "р."
+      },
+      {
+        "title": "Затраты на SEO",
+        "oldValue": 88419,
+        "newValue": 203567,
+        "suffix": "р."
+      }
+    ]
+  },
+  {
+    "name": "Товары для рыбалки и охоты",
+    "fields": [
+      {
+        "title": "Трафик (Без бренда)",
+        "oldValue": 5710,
+        "newValue": 15450,
+        "suffix": ""
+      },
+      {
+        "title": "Заявки",
+        "oldValue": 193,
+        "newValue": 607,
+        "suffix": ""
+      },
+      {
+        "title": "Валовая прибыль",
+        "oldValue": 214852,
+        "newValue": 673370,
+        "suffix": "р."
+      },
+      {
+        "title": "Затраты на SEO",
+        "oldValue": 70739,
+        "newValue": 192889,
+        "suffix": "р."
+      }
+    ]
+  },
+  {
+    "name": "Стоматология",
+    "fields": [
+      {
+        "title": "Трафик (Без бренда)",
+        "oldValue": 1623,
+        "newValue": 6144,
+        "suffix": ""
+      },
+      {
+        "title": "Заявки",
+        "oldValue": 74,
+        "newValue": 407,
+        "suffix": ""
+      },
+      {
+        "title": "Валовая прибыль",
+        "oldValue": 110940,
+        "newValue": 610995,
+        "suffix": "р."
+      },
+      {
+        "title": "Затраты на SEO",
+        "oldValue": 68386,
+        "newValue": 167134,
+        "suffix": "р."
+      }
+    ]
+  },
+  {
+    "name": "Детские товары",
+    "fields": [
+      {
+        "title": "Трафик (Без бренда)",
+        "oldValue": 111846,
+        "newValue": 209382,
+        "suffix": ""
+      },
+      {
+        "title": "Заявки",
+        "oldValue": 2236,
+        "newValue": 4862,
+        "suffix": ""
+      },
+      {
+        "title": "Валовая прибыль",
+        "oldValue": 436201,
+        "newValue": 947993,
+        "suffix": "р."
+      },
+      {
+        "title": "Затраты на SEO",
+        "oldValue": 98292,
+        "newValue": 232633,
+        "suffix": "р."
+      }
+    ]
+  }
+]
